@@ -254,3 +254,24 @@ text-transform: uppercase;
 
 
 /* footer ends here  */
+
+/* carousel starts here  */
+
+.hr-style{
+  border: 5px white;
+  border-bottom: none;
+  width: 50px;
+}
+
+.carousel-item{
+  padding: 10% 15%;
+  text-align: center;
+}
+
+
+.caurosel-indicators{
+  bottom: -20px;
+}
+
+
+ /* carousel ends here  */
